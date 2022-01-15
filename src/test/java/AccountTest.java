@@ -20,7 +20,7 @@ public class AccountTest {
         return new Object[][]{
                 {"Тимоти Шаламе", true},
                 {"Т Ш", true},
-                {"Длинношеее животное", true},
+                {"Тухлятина старая", true},
                 {"Timoti Shalome", true},
                 {"Ggg56g hh-h;0).,'", true},
 
